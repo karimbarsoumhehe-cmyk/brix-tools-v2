@@ -1,3 +1,5 @@
+<img width="1115" height="609" alt="image" src="https://github.com/user-attachments/assets/05fa4f4c-77f4-4219-a5ec-809d165aedd0" />
+
 # Brix Tools
 
 ![Version](https://img.shields.io/badge/version-1.0.0-gray?style=flat-square)
