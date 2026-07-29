@@ -77,7 +77,7 @@ cd chemin/vers/Brix-Tools-main
 
 **Étape 3 : Lancer l'installation automatique (recommandé)**
 ```bash
-python Setup.py
+python Setup.bat
 ```
 Cela installe automatiquement tous les modules requis et lance l'outil.
 
@@ -89,7 +89,7 @@ python -m pip install -r requirements.txt
 
 **Étape 5 : Lancer l'outil**
 ```bash
-python Brix.py
+lancer le start.bat 
 ```
 
 #### 🇬🇧 English
@@ -106,7 +106,7 @@ cd path/to/Brix-Tools-main
 
 **Step 3: Run automatic setup (recommended)**
 ```bash
-python Setup.py
+Launch Setup.bat
 ```
 This installs all required modules and launches the tool.
 
@@ -118,7 +118,7 @@ python -m pip install -r requirements.txt
 
 **Step 5: Run the tool**
 ```bash
-python Brix.py
+Launch Setup.bat
 ```
 
 ---
@@ -127,7 +127,7 @@ python Brix.py
 
 1. **Launch the tool** / Lancez l'outil :
    ```bash
-   python Brix.py
+   Launch start.bat
    ```
 2. **A welcome animation** appears with "WELCOME" ASCII art and a loading bar.
 3. **The main menu** displays a centered options box with all tools numbered 01–22.
